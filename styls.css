@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    align-items: center;
+    
+}
+
+div h1 {
+    padding: 20px;
+}
